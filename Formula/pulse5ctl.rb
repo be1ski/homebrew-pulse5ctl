@@ -1,8 +1,8 @@
 class Pulse5ctl < Formula
   desc "Pulse 5 speaker controller — macOS menu bar app"
   homepage "https://github.com/be1ski/pulse5ctl"
-  url "https://github.com/be1ski/pulse5ctl/archive/refs/tags/v1.10.5.tar.gz"
-  sha256 "674b6cbd3de8c621ed5d335007a9de49f16e9732f046bac141aa23cf3b1341a4"
+  url "https://github.com/be1ski/pulse5ctl/archive/refs/tags/v1.11.0.tar.gz"
+  sha256 "76f435ef920e4941b75679342947c72902304c6c300613db226c9e310de39f24"
   license "MIT"
 
   depends_on :macos
