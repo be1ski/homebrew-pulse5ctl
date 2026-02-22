@@ -1,6 +1,6 @@
 cask "pulse5ctl" do
-  version "1.12.3"
-  sha256 "48e4bb27724504c4d521c985387c02fd4e5c820ac5ee320939486285e5814f9c"
+  version "1.12.4"
+  sha256 "11ac87967691aac228a2c3949eb7c7d81cf6e152903397f5b8ace7b6a6b80980"
 
   url "https://github.com/be1ski/pulse5ctl/releases/download/v#{version}/pulse5ctl-v#{version}.zip"
   name "pulse5ctl"
